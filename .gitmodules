@@ -1,0 +1,6 @@
+[submodule "team-tasks"]
+	path = team-tasks
+	url = https://github.com/win4r/team-tasks.git
+[submodule "claude-code-hooks"]
+	path = claude-code-hooks
+	url = https://github.com/win4r/claude-code-hooks.git
